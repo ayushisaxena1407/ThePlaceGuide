@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">The Place Guide</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_navigate">Map</string>
+</resources>
